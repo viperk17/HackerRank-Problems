@@ -4,7 +4,7 @@ a = inp[1:]
 b = inp[0]
 c = int(b)
 print(a)
-print(type(b),type(c))
+print(type(b), type(c))
 
 if c == len(a):
     print(True)
